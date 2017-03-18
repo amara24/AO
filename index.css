@@ -1,4 +1,7 @@
 html{
-	background-color: white;
-	background-image: url("bg1.jpg")
-}
+	background-image: url("hf.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size: 1500px 1500px;}
+
